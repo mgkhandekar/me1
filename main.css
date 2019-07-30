@@ -998,6 +998,10 @@ input::-moz-focus-inner {
  color:#000;
  margin-top:0
 }
+
+.skill{
+  color: black
+}
 .display-2--light {
  color:#fff
 }
