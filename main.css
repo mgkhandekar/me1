@@ -1831,7 +1831,12 @@ html.no-csstransitions .home-content__main {
  overflow:hidden;
  text-overflow:ellipsis;
  text-align: center;
+ text-decoration: underline;
  white-space:nowrap
+}
+
+.stat_4{
+  line-height: 1;
 }
 
 .stats__count h2{
@@ -1845,11 +1850,11 @@ html.no-csstransitions .home-content__main {
   white-space:nowrap
 }
 
-.stats h5 {
+.stats_h5 {
  font-family:montserrat-semibold,sans-serif;
  margin-top:1.8rem;
- color:#000;
- font-size:1.8rem;
+ color:#fff;
+ font-size:3rem;
  line-height:1.333;
  position:relative
 }
