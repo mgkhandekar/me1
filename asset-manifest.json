@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed285415.chunk.css",
+    "main.js": "/static/js/main.cdcb67c5.chunk.js",
+    "main.js.map": "/static/js/main.cdcb67c5.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.e42fb3d0.chunk.js": "/static/js/2.e42fb3d0.chunk.js",
+    "static/js/2.e42fb3d0.chunk.js.map": "/static/js/2.e42fb3d0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1d3bdf1581b99bd457538bc9c3913928.js": "/precache-manifest.1d3bdf1581b99bd457538bc9c3913928.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ed285415.chunk.css.map": "/static/css/main.ed285415.chunk.css.map",
+    "static/media/index.css": "/static/media/leaves.5a24db1f.jpg",
+    "static/media/mee.JPG": "/static/media/mee.b3c5e867.JPG"
+  }
+}
